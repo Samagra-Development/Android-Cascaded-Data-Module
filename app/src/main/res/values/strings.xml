@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Cascaded Data</string>
+    <string name="switch_to_search">Switch to Search</string>
+    <string name="switch_to_cascaded">Switch to Cascaded</string>
+    <string name="create_module_here">Create module here</string>
+</resources>
